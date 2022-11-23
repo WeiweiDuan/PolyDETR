@@ -24,7 +24,11 @@ To update the parameters for data processing, model architecture, and training p
 ## Use PolyDETR to detect desired polylines
 Update './util/args_test.py' to set the map name and trained model path for PolyDETR
 
-**Here is the command to test PolyDETR
+## Here is the command to test PolyDETR
 <code> python test.py </code>
+
+## Here is the command to use PolyDETR to detect line features for the competition
+<code> python test_main_competition.py </code>
+### Please update './util/args_test_multimaps.py' to set directory for the map images 
 
 

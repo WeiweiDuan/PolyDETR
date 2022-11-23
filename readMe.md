@@ -29,6 +29,6 @@ Update './util/args_test.py' to set the map name and trained model path for Poly
 
 ## Here is the command to use PolyDETR to detect line features for the competition
 <code> python test_main_competition.py </code>
-### Please update './util/args_test_multimaps.py' to set directory for the map images 
+Please update './util/args_test_multimaps.py' to set directory for the map images 
 
 
